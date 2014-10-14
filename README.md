@@ -1,5 +1,5 @@
 ##Resources to help while learning R & Data Science
-
+*This is an incomplete list created to assist in learning the basics of R and Data Science. Additionally this is not simply a list of books, the majority of links point to interactive resources.*
 
 ####Command Line
 * [The Command Line Crash Course](http://cli.learncodethehardway.org/book/) - This book is a quick super fast course in using the command line. It is intended to be done rapidly in about a day or two, and not meant to teach you advanced shell usage.
