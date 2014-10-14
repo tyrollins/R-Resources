@@ -1,4 +1,5 @@
-###A short list of resources to help while learning the R programming language.
+##A short list of resources to help while learning R & Data Science.
+
 
 ####Command Line
 * [The Command Line Crash Course](http://cli.learncodethehardway.org/book/) - This book is a quick super fast course in using the command line. It is intended to be done rapidly in about a day or two, and not meant to teach you advanced shell usage.
