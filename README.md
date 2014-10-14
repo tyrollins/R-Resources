@@ -46,10 +46,10 @@ This list of resources was put together to assist in learning the R programming 
 * **Issues** - Open an issue and I'll take a peak and update.
 
 * **Pull Request**
-1. Fork this repository.
-2. Add changes.
-3. Commit your changes.
-4. Submit a pull request.
+> Fork this repository. <br/>
+> Add changes. <br/>
+> Commit your changes. <br/>
+> Submit a pull request.
 
 I will try and address contributions asap, or inform you if and why the contribution was denied. 
 
