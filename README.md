@@ -38,4 +38,19 @@
  
 * [R Style Guide](http://r-pkgs.had.co.nz/style.html) - This is how other R users will expect your code to look when you share it.
 
+####Please Contribute!
+This list of resources was put together to assist in learning the R programming language and some Data Science. Please feel free to contribute in anyway! Whether that means providing your own content, creating a new category, adding new links, or simply correcting a spelling error. There are a few ways to contribute: 
 
+* **Edit on Github** - For small changes such as adding a link or correcting a spelling error.
+
+* **Issues** - Open an issue and I'll take a peak and update.
+
+* **Pull Request**
+1. Fork this repository.
+2. Add changes.
+3. Commit your changes.
+4. Submit a pull request.
+
+I will try and address contributions asap, or inform you if and why the contribution was denied. 
+
+Happy Studying!
