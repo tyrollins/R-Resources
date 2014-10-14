@@ -1,4 +1,4 @@
-##A short list of resources to help while learning R & Data Science.
+##Resources to help while learning R & Data Science.
 
 
 ####Command Line
