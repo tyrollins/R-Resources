@@ -1,4 +1,4 @@
-##Resources to help while learning R & Data Science.
+##Resources to help while learning R & Data Science
 
 
 ####Command Line
@@ -7,7 +7,6 @@
 * [ExplainShell.com](http://explainshell.com/) - Write down a command-line to see the help text that matches each argument.
 
 * [Conquering the Command Line](http://conqueringthecommandline.com/book/frontmatter#foreword) - This book is for new developers, experienced developers, and everyone in between who wants to master Unix and Linux commands.
-
 
 
 ####Git & Github
@@ -19,23 +18,3 @@
 
 * [Git Learning Videos](http://git-scm.com/videos) - A small group of videos to get you started with Git version control.
 
-
-####R Interactive Learning
-*
-*
-*
-
-####R Tutorials
-*
-*
-*
-
-####R Books
-*
-*
-*
-
-####R Videos
-*
-*
-*
