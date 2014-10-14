@@ -18,7 +18,7 @@
 
 * [Git Learning Videos](http://git-scm.com/videos) - A small group of videos to get you started with Git version control.
 
-####R & Data - Interactive Learning
+####R & Data
 * [Try R](http://tryr.codeschool.com/) - Learn the R programming language for data analysis and visualization.
 
 * [Introduction to R](https://www.datacamp.com/courses/introduction-to-r) - In this introduction to R, you will master the basics of this beautiful open source language.
@@ -28,3 +28,6 @@
 * [Introduction to Computational Finance and Financial Econometrics](https://www.datacamp.com/courses/introduction-to-computational-finance-and-financial-econometrics) - In this course, you'll make use of R to analyze financial data, estimate statistical models, and construct optimized portfolios.
 
 * [How to work with Quandl in R](https://www.datacamp.com/courses/how-to-work-with-quandl-in-r) - In this interactive tutorial you will learn how to effortlessly pull any of Quandl's data into R for quick and easy analysis!
+
+* [swirl](http://swirlstats.com/) - swirl teaches you R programming and data science interactively, at your own pace, and right in the R console!
+
