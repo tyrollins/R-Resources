@@ -31,3 +31,11 @@
 
 * [swirl](http://swirlstats.com/) - swirl teaches you R programming and data science interactively, at your own pace, and right in the R console!
 
+* [The Beginner’s Guide to R](http://www.computerworld.com/article/2497143/business-intelligence-beginner-s-guide-to-r-introduction.html) - This 30 page guide will show you how to install R, load data, run analyses, make graphs, and more.
+
+####Other Resources
+* [R Markdown](http://rmarkdown.rstudio.com/) - The site provides a quick tour of the R markdown syntax, as well as in depth articles and examples.
+ 
+* [R Style Guide](http://r-pkgs.had.co.nz/style.html) - This is how other R users will expect your code to look when you share it.
+
+
