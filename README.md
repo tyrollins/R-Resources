@@ -51,6 +51,8 @@ This list of resources was put together to assist in learning the R programming 
 > Commit your changes. <br/>
 > Submit a pull request.
 
+If all else fails, feel free to contact me on twitter: [@tycrollins] (https://twitter.com/tycrollins) or email: hello [@] tyrollins.com
+
 I will try and address contributions asap, or inform you if and why the contribution was denied. 
 
 Happy Studying!
