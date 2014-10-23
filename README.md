@@ -33,7 +33,7 @@
 
 * [The Beginner’s Guide to R](http://www.computerworld.com/article/2497143/business-intelligence-beginner-s-guide-to-r-introduction.html) - This 30 page guide will show you how to install R, load data, run analyses, make graphs, and more.
 
-* [Introduction to Statistical Thought](http://http://people.math.umass.edu/~lavine/Book/book.html) - Free PDF of Michael Lavine's book.  Would be a doorstopper in print (475 pages), but rich R exercises are interweaved in the discussion.  It is also a rich introduction to statistics.
+* [Introduction to Statistical Thought](http://http://people.math.umass.edu/~lavine/Book/book.html) - Free PDF of Michael Lavine's book.  Would be a doorstopper in print (475 pages), but rich R exercises are interweaved in the discussion.  Also a rich introduction to statistics.
 
 ####Other Resources
 * [R Markdown](http://rmarkdown.rstudio.com/) - The site provides a quick tour of the R markdown syntax, as well as in depth articles and examples.
