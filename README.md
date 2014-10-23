@@ -43,7 +43,7 @@ This list of resources was put together to assist in learning the R programming 
 
 * **Edit on Github** - For small changes such as adding a link or correcting a spelling error.
 
-* **Issues** - Open an issue and I'll take a peak and update.
+* **Issues** - Open an issue and I'll take a peek and update.
 
 * **Pull Request**
 > Fork this repository. <br/>
