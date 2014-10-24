@@ -33,6 +33,8 @@
 
 * [The Beginner’s Guide to R](http://www.computerworld.com/article/2497143/business-intelligence-beginner-s-guide-to-r-introduction.html) - This 30 page guide will show you how to install R, load data, run analyses, make graphs, and more.
 
+* [Programming Exercises for R](http://www2.warwick.ac.uk/fac/sci/statistics/staff/academic-research/reed/rexercises.pdf) - Rich exercises for R, assumes R is installed.
+
 ####Other Resources
 * [R Markdown](http://rmarkdown.rstudio.com/) - The site provides a quick tour of the R markdown syntax, as well as in depth articles and examples.
  
