@@ -40,6 +40,8 @@
  
 * [R Style Guide](http://r-pkgs.had.co.nz/style.html) - This is how other R users will expect your code to look when you share it.
 
+* [R for Matlab Users](http://mathesaurus.sourceforge.net/octave-r.html) - The site provides equivalent commands for users coming from Matlab / Octave / Freemat into R.
+
 ####Please Contribute!
 This list of resources was put together to assist in learning the R programming language and some Data Science. Please feel free to contribute in anyway! Whether that means providing your own content, creating a new category, adding new links, or simply correcting a spelling error. There are a few ways to contribute: 
 
